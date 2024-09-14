@@ -1,0 +1,4 @@
+Cloud Computing is helping enterprises to scale their buiseness
+by providing services like SaaS, PaaS, IaaS.
+There main types of cloud, Public Cloud, Private Cloud and Hybrid Cloud.
+Virualization brings cloud computing into light.
